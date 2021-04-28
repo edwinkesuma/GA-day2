@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container h1{
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+.container p{
+    opacity: 0.7;
+    margin-bottom: 3px;
+}
+
+.container{
+    padding: 180px 0 100px 0;
+    color: white;
+    text-align: center;
+    background: url('bg.jpg');
+    background-size: cover;
+}
+
+li{
+    opacity: 0.7;
+    margin-bottom: 3px;
+}
+
+h3{
+    opacity: 0.7;
+    margin-bottom: 3px;
+}
+
+img{
+    padding-top: 50px;
+}
